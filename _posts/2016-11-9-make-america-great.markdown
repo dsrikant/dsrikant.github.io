@@ -49,5 +49,7 @@ Some may choose to run. But I'm not going anywhere.
 
 This is my country to protect.
 
+```
 परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।
 धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥४-८॥
+```
